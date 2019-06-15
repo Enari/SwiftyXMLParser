@@ -8,6 +8,6 @@ let package = Package(
         .library(name: "SwiftyXMLParser", targets: ["SwiftyXMLParser"])
     ],
     targets: [
-        .target(name: "SwiftyXMLParser", path: "Sources")
+        .target(name: "SwiftyXMLParser", path: "SwiftyXMLParser")
     ]
 )
